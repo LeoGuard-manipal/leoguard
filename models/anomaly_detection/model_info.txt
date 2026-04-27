@@ -1,0 +1,7 @@
+LeoGuard - Anomaly Detection Model
+==================================================
+Created: 2026-04-27 20:00:21
+Algorithm: Isolation Forest
+Contamination Rate: 5.0%
+Features Used: co2_ppm, temperature_c, humidity_percent
+Training Samples: 1440
