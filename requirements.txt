@@ -1,0 +1,25 @@
+# Data Processing
+pandas==2.0.3
+numpy==1.24.4
+
+# Machine Learning
+scikit-learn==1.3.0
+scipy==1.11.2
+
+# Visualization
+matplotlib==3.7.2
+
+# Model Serialization
+joblib==1.3.1
+
+# Google Earth Engine
+google-auth-oauthlib==1.1.0
+google-auth-httplib2==0.2.0
+google-api-python-client==2.96.0
+earthengine-api==0.1.373
+
+# Web Requests
+requests==2.31.0
+
+# Utilities
+python-dotenv==1.0.0
